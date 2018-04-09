@@ -1,0 +1,7 @@
+--function by Wizzerine for later use in tnt override
+--on_place = function(item, player, pt)
+    --local pos = pt.under
+    --if pos.y > 200 then
+        --minetest.set_node(pos, "mod:actual_tnt")
+    --end
+--end,
